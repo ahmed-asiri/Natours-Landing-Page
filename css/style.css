@@ -494,8 +494,7 @@ body {
       .card__price-value {
         font-size: 5rem; }
       .card a.btn--white {
-        display: inline-block;
-        transform: translate(50%, 0); } }
+        display: inline-block; } }
 
 .story {
   width: 75%;
